@@ -1,4 +1,4 @@
-# Cinder Quota Sync
+# Trove Quota Sync
 
 ## What is it?
 
@@ -58,7 +58,7 @@ python trove_quota_sync.py --project_id "d945d5ce-cfb8-11e4-b9d6-1681e6b88ec1"
 ![show project quota usage](img/quotas_project.png)
 
 
-## Cinder versions supported
+## Trove versions supported
 
 We use it in Ocata, it may work well on higher version.
 
